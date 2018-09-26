@@ -1,0 +1,26 @@
+Options -MultiViews
+RewriteEngine On
+
+#custom error pages
+#bad request
+#ErrorDocument 400 /error/400.html
+#Auth request
+#ErrorDocument 401 /error/401.html
+#Forbidden
+#ErrorDocument 403 /error/403.html
+#Not Found
+#ErrorDocument 404 /error/404.html
+#internal server error
+#ErrorDocument 500 /error/500.html
+
+
+
+
+#For the sever
+RewriteBase /public
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^(.+)$ index.php?url=$1 [QSA,L]
+
+#RewriteCond %{HTTPS} off
+#RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI} [NE,L,R=301]

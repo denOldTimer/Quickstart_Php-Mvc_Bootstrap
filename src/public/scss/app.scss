@@ -1,0 +1,37 @@
+// setting the value of this variable to an empty data URL is the only working solution
+// to load the Bootswatch web fonts locally and avoid loading them from Google servers
+// see https://github.com/thomaspark/bootswatch/issues/55#issuecomment-298093182
+$web-font-path: 'data:text/css;base64,';
+$fa-font-path: 'data:text/css;base64,';
+
+
+// 1. Abstracts /variables/functions/mixins/placeholders
+
+
+// 2. Vendors
+@import '~bootswatch/dist/flatly/variables';
+@import '~bootstrap/scss/bootstrap';
+@import '~bootstrap/scss/bootstrap-grid';
+@import '~bootstrap/scss/bootstrap-reboot';
+@import '~bootswatch/dist/flatly/bootswatch';
+
+
+// 3. Base reset / typography
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,500,700,900');
+$fa-font-path: '~@fortawesome/fontawesome-free/webfonts/';
+@import '~@fortawesome/fontawesome-free/scss/fontawesome';
+@import '~@fortawesome/fontawesome-free/scss/brands';
+@import '~@fortawesome/fontawesome-free/scss/regular';
+@import '~@fortawesome/fontawesome-free/scss/solid';
+@import '~@fortawesome/fontawesome-free/scss/v4-shims';
+
+// 4. Layout /header/main/footer
+
+
+// 5. Components Modals/Forms/Buttons/etc
+
+
+// 6. Pages
+
+
+// 7. Themes

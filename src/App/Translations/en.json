@@ -1,0 +1,9 @@
+{
+  "trans":{
+    "home" : "Home",
+    "about" : "Our Company",
+    "products" : "Our Products",
+    "contact" : "Contact Us",
+    "welcome": "Welcome to the Home Page"
+  }
+}

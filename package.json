@@ -36,9 +36,12 @@
     "url": "git+https://github.com/scQuickStart/Quickstart_Php-Mvc_Bootstrap.git"
   },
   "keywords": [
-    "php",
-    "php-hideout",
-    "discord"
+    "webpack-encore",
+    "js",
+    "scss",
+    "php-mvc",
+    "font-awesome",
+    "bootstrap 4"
   ],
   "author": "ScorpioCoding",
   "license": "GPL-3.0",

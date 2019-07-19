@@ -34,7 +34,7 @@ Included in the Bootstrap version.
 `https://github.com/ScorpioCoding/Quickstart_Php-Mvc_Bootstrap.git`
 
 [greenkeeper-url]: https://greenkeeper.io/
-[greenkeeper-image]: https://badges.greenkeeper.io/ScorpioCoding/Quickstart_Php-Mvc_Bootstrap.svg?style=flat-square
+[greenkeeper-image]: https://badges.greenkeeper.io/scQuickstart/Quickstart_Php-Mvc_Bootstrap.svg?style=flat-square
 [travis-url]: https://travis-ci.org/ScorpioCoding/Quickstart_Php-Mvc_Bootstrap
 [travis-image]: https://travis-ci.org/ScorpioCoding/Quickstart_Php-Mvc_Bootstrap.svg?branch=master
 [dep-url]: https://david-dm.org/ScorpioCoding/Quickstart_Php-Mvc_Bootstrap

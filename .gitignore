@@ -11,8 +11,14 @@ composer.lock
 /vendor/*
 ###< composer ###
 
+###> yarn ###
+yarn-error.log
+yarn.lock
+###< yarn ###
+
 ###> npm ###
 /node_modules/*
+package-lock.json
 ###< npm ###
 
 ###> symfony/webpack-encore-pack ###

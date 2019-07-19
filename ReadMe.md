@@ -2,9 +2,7 @@
 
 [![Greenkeeper badge][greenkeeper-image]][greenkeeper-url] [![Build Status][travis-image]][travis-url] [![Dependencies][dep-image]][dep-url] [![devDependencies][devdep-image]][devdep-url]
 
-Is an automated workflow with Npm & Webpack-Encore.
-Upon build it will create a complete php-mvc distribution folder.
-All you have to do is publish the contents of the dist folder into the root of your webser.
+Is an automated workflow with Npm & Webpack-Encore. Upon build it will create a complete php-mvc distribution folder. All you have to do is publish the contents of the dist folder into the root of your webser.
 
 ## How to use this project
 
@@ -50,6 +48,7 @@ Included in the Bootstrap version.
 - 2.0.0 - [30-04-2019] Dependency Updates
 - 2.1.0 - [17-05-2019] Dependency Updates
 - 2.1.1 - [18-05-2019] Webpack SingleRunTime Error
+- 2.3.0 - [19-06-2019] Dependency Updates
 
 ## Updates
 
@@ -70,3 +69,5 @@ Included in the Bootstrap version.
      - webpack-notifier ^1.6.0 → ^1.7.0
 - 2019-05-18
   1.  Webpack SingleRuntime Error
+- 2019-06-19
+  1. Dependency Updates

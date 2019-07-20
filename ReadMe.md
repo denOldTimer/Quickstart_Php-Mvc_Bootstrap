@@ -35,12 +35,12 @@ Included in the Bootstrap version.
 
 [greenkeeper-url]: https://greenkeeper.io/
 [greenkeeper-image]: https://badges.greenkeeper.io/scQuickstart/Quickstart_Php-Mvc_Bootstrap.svg?style=flat-square
-[travis-url]: https://travis-ci.org/ScorpioCoding/Quickstart_Php-Mvc_Bootstrap
-[travis-image]: https://travis-ci.org/ScorpioCoding/Quickstart_Php-Mvc_Bootstrap.svg?branch=master
-[dep-url]: https://david-dm.org/ScorpioCoding/Quickstart_Php-Mvc_Bootstrap
-[dep-image]: https://david-dm.org/ScorpioCoding/Quickstart_Php-Mvc_Bootstrap/status.svg?style=flat
-[devdep-url]: https://david-dm.org/ScorpioCoding/Quickstart_Php-Mvc_Bootstrap?type=dev
-[devdep-image]: https://david-dm.org/ScorpioCoding/Quickstart_Php-Mvc_Bootstrap/dev-status.svg?style=flat
+[travis-url]: https://travis-ci.org/scQuickstart/Quickstart_Php-Mvc_Bootstrap
+[travis-image]: https://travis-ci.org/scQuickstart/Quickstart_Php-Mvc_Bootstrap.svg?branch=master
+[dep-url]: https://david-dm.org/scQuickstart/Quickstart_Php-Mvc_Bootstrap
+[dep-image]: https://david-dm.org/scQuickstart/Quickstart_Php-Mvc_Bootstrap/status.svg?style=flat
+[devdep-url]: https://david-dm.org/scQuickstart/Quickstart_Php-Mvc_Bootstrap?type=dev
+[devdep-image]: https://david-dm.org/scQuickstart/Quickstart_Php-Mvc_Bootstrap/dev-status.svg?style=flat
 
 ## Version Control
 

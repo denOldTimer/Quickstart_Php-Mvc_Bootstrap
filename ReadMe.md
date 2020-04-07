@@ -49,6 +49,7 @@ Included in the Bootstrap version.
 - 2.1.0 - [17-05-2019] Dependency Updates
 - 2.1.1 - [18-05-2019] Webpack SingleRunTime Error
 - 2.3.0 - [19-06-2019] Dependency Updates
+- 2.3.0 - [07-04-2020] Dependency Updates
 
 ## Updates
 
@@ -70,4 +71,6 @@ Included in the Bootstrap version.
 - 2019-05-18
   1.  Webpack SingleRuntime Error
 - 2019-06-19
+  1. Dependency Updates
+- 2019-04-07
   1. Dependency Updates

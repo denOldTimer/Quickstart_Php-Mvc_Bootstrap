@@ -49,7 +49,7 @@ Included in the Bootstrap version.
 - 2.1.0 - [17-05-2019] Dependency Updates
 - 2.1.1 - [18-05-2019] Webpack SingleRunTime Error
 - 2.3.0 - [19-06-2019] Dependency Updates
-- 2.3.0 - [07-04-2020] Dependency Updates
+- 3.0.0 - [07-04-2020] Dependency Updates
 
 ## Updates
 
